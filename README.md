@@ -2,7 +2,7 @@
 ## NAME: N V CHETAN SATWIK
 ## REG NO: 212224240100
 ## AIM
-
+To write a python program to perform Sliding window protocol.
 ## ALGORITHM:
 1. Start the program.
 2. Get the frame size from the user
